@@ -23,4 +23,18 @@ The second goal centered on implementing robust security measures throughout the
 
 Finally, I collaborated partly on the Prometheus/Grafana stack, which was used to display more real-time information as well as the status of the project and the host machine, to further differentiate it from the ELK stack.
 
+<br>
+
+<img src="readme/ELK.png" alt="ELK">
+
+<p>
+  <img src="readme/Graf_1.png" alt="Graf_1" width="49%" />
+  <img src="readme/Graf_2.png" alt="Graf_2" width="49%" />
+</p>
+
+<p>
+  <img src="readme/Profile.png" alt="Profile" width="49%" />
+  <img src="readme/Chat.png" alt="Chat" width="49%" />
+</p>
+
 _Feedback welcome_!
